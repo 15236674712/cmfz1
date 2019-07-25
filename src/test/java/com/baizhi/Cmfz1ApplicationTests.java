@@ -15,6 +15,7 @@ public class Cmfz1ApplicationTests {
         System.out.println("commit push");
         System.out.println("ddddd");
         System.out.println("我是谁，我加了一行");
+        System.out.println("v4.0 哈哈哈");
     }
 
     public static void main(String[] args) {
