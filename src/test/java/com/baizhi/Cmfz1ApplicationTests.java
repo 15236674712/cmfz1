@@ -12,7 +12,7 @@ public class Cmfz1ApplicationTests {
     @Test
     public void contextLoads() {
 
-
+        System.out.println("commit push");
     }
 
     public static void main(String[] args) {
