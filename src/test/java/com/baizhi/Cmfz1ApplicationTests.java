@@ -11,7 +11,7 @@ public class Cmfz1ApplicationTests {
 
     @Test
     public void contextLoads() {
-
+      System.out.println("啦啦啦啦h");
         System.out.println("commit push");
     }
 
