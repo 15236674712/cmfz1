@@ -11,9 +11,10 @@ public class Cmfz1ApplicationTests {
 
     @Test
     public void contextLoads() {
-      System.out.println("啦啦啦啦h");
+        System.out.println("啦啦啦啦h");
         System.out.println("commit push");
         System.out.println("ddddd");
+        System.out.println("v4.0 哈哈哈");
     }
 
     public static void main(String[] args) {
