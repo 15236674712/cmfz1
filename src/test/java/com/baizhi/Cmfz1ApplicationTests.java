@@ -22,6 +22,7 @@ public class Cmfz1ApplicationTests {
 
         System.out.println("====");
         System.out.println("我是Nanan，我加了一行");
+        System.out.println("我是bobo，我加了一行");
     }
 
 }
