@@ -21,6 +21,7 @@ public class Cmfz1ApplicationTests {
     public static void main(String[] args) {
 
         System.out.println("====");
+        System.out.println("我是Nanan，我加了一行");
     }
 
 }
